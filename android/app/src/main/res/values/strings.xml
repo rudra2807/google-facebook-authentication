@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">krsik_info_sm</string>
+    <string name="facebook_app_id">595984494633760</string>
+    <string name="fb_login_protocol_scheme">fb595984494633760</string>
+</resources>
